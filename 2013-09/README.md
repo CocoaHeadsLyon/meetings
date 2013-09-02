@@ -16,7 +16,7 @@ Le programme de la soirée est donc :
 “Core Data en multi-thread”,  par [Thibaut Jarosz](https://www.twitter.com/thibautjarosz)
 Venez nombreux !
 
- 
+---
 
 ## Rappels pratiques
 
