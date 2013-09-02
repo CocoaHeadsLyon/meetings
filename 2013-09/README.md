@@ -12,9 +12,11 @@ En seconde présentation, puisqu’il ne faut pas oublier que l’on est censé 
 
 Le programme de la soirée est donc :
 
-“De iOS à Android”, par [Mustapha Tarek Ben Lechhab](https://www.twitter.com/nsdeveloppeur)
-“Core Data en multi-thread”,  par [Thibaut Jarosz](https://www.twitter.com/thibautjarosz)
+**“De iOS à Android”**, par [Mustapha Tarek Ben Lechhab](https://www.twitter.com/nsdeveloppeur)  
+**“Core Data en multi-thread”**,  par [Thibaut Jarosz](https://www.twitter.com/thibautjarosz)  
+
 Venez nombreux !
+
 
 ---
 
