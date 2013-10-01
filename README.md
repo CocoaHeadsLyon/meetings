@@ -2,6 +2,13 @@
 
 _Meetings pour CocoaHeads Lyon_
 
+## Prochain meeting
+
+- 10 octobre 2013 - Spécial iOS 7  
+  **“View Controllers”**, par [Nicolas Bachschmidt](https://www.twitter.com/baarde)  
+  **“Background fetching”**, par [Vincent Tourraine](https://www.twitter.com/vtourraine)  
+  **“Modules Xcode 5”**, par [Thibaut Jarosz](https://twitter.com/thibautjarosz)  
+
 ## Historique
 
  - [12 septembre 2013](https://github.com/CocoaHeadsLyon/meetings/tree/master/2013-09)  
