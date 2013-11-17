@@ -11,14 +11,14 @@ _Meetings pour CocoaHeads Lyon_
 ## Historique
 
  - [14 novembre 2013 - Persistance des Données](https://github.com/CocoaHeadsLyon/meetings/tree/master/2013-11)  
-  **“Mode déconnecté”**, par [Claire Reynaud](https://www.twitter.com/ClaireReynaud)  
-  **Présentation du Code Retreat**, par [Camille Appert](http://cappert.com)  
-  **“Core Data, Partie 1 : comment ça marche ?”**, par [Thibaut Jarosz](https://twitter.com/ThibautJarosz)  
+  **“Mode déconnecté”**, par [Claire Reynaud](https://www.twitter.com/ClaireReynaud)  ([Présentation](http://www.slideshare.net/creynaud/cocoaheads-lyon-comment-faire-des-applications), [Code Server](https://github.com/creynaud/notes-server), [Code Client](https://github.com/creynaud/notes-iphone-app))  
+  **Présentation du [Code Retreat](https://twitter.com/CodeRetreatLyon)**, par [Camille Appert](http://cappert.com)  
+  **“Core Data, Partie 1 : comment ça marche ?”**, par [Thibaut Jarosz](https://twitter.com/ThibautJarosz) ([Code](https://github.com/CocoaHeadsLyon/CocoaNews))  
 
  - [10 octobre 2013 - Spécial iOS 7 & Xcode 5](https://github.com/CocoaHeadsLyon/meetings/tree/master/2013-10)  
-  **“Hiérarchie de ViewControllers”**, par [Nicolas Bachschmidt](https://www.twitter.com/baarde)  
-  **“Background fetching”**, par [Vincent Tourraine](https://www.twitter.com/vtourraine)  
-  **“UIActivityViewController”**, par [Vincent Tourraine](https://www.twitter.com/vtourraine)  
+  **“Hiérarchie de ViewControllers”**, par [Nicolas Bachschmidt](https://www.twitter.com/baarde) ([Code](https://github.com/CocoaHeadsLyon/Container-View-Controllers-iOS7))  
+  **“Background fetching”**, par [Vincent Tourraine](https://www.twitter.com/vtourraine) ([Présentation](https://speakerdeck.com/vtourraine/ios-7-background-fetching-cocoaheads-lyon-octobre-2013), [Lien](http://www.vtourraine.net/blog/ios-7-background-fetching))  
+  **“UIActivityViewController”**, par [Vincent Tourraine](https://www.twitter.com/vtourraine) ([Présentation](https://speakerdeck.com/vtourraine/activity-view-controller-cocoaheads-lyon-octobre-2013))  
   **“Modules Xcode 5”**, par [Thibaut Jarosz](https://twitter.com/thibautjarosz)  
 
  - [12 septembre 2013](https://github.com/CocoaHeadsLyon/meetings/tree/master/2013-09)  
