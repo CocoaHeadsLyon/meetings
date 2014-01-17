@@ -4,14 +4,17 @@ _Meetings pour CocoaHeads Lyon_
 
 ## Prochain meeting
 
-- Janvier **2014** :fireworks:  
+- Février 2014  
   _N’hésitez-pas à nous proposer vos idées de présentations._
 
 
 ## Historique
 
+ - [9 janvier 2014]()  
+  **“Kinect et openFrameworks”**
+
  - [12 décembre 2013]()  
-  Présentation de [Reveal](http://revealapp.com/) par [Frédéric Ruaudel](http://www.twitter.com/iGrumZ), avec une licence à gagner  
+  **“Présentation de [Reveal](http://revealapp.com/)”** par [Frédéric Ruaudel](http://www.twitter.com/iGrumZ), avec une licence à gagner  
   Quizz à la [“Stump the Experts”](http://en.wikipedia.org/wiki/Stump_the_Experts)
 
  - [14 novembre 2013 - Persistance des Données](https://github.com/CocoaHeadsLyon/meetings/tree/master/2013-11)  
