@@ -4,7 +4,8 @@ _Meetings pour CocoaHeads Lyon_
 
 ## Prochain meeting
 
-- Février 2014  
+- 13 mars 2014  
+  **“Custom transitions”**, par [Vincent Tourraine](https://www.twitter.com/vtourraine)  
   _N’hésitez-pas à nous proposer vos idées de présentations._
 
 
@@ -29,5 +30,4 @@ _Meetings pour CocoaHeads Lyon_
   **“Modules Xcode 5”**, par [Thibaut Jarosz](https://twitter.com/thibautjarosz)  
 
  - [12 septembre 2013](https://github.com/CocoaHeadsLyon/meetings/tree/master/2013-09)  
-   **“De iOS à Android”**, par [Mustapha Tarek Ben Lechhab](https://www.twitter.com/nsdeveloppeur)  
-   ~~**“Core Data en multi-thread”**,  par [Thibaut Jarosz](https://www.twitter.com/thibautjarosz)~~ (Reporté)
+   **“De iOS à Android”**, par [Mustapha Tarek Ben Lechhab](https://www.twitter.com/nsdeveloppeur)
