@@ -5,8 +5,9 @@ _Meetings pour CocoaHeads Lyon_
 ## Prochain meeting
 
 - 13 mars 2014  
-  **“Custom transitions”**, par [Vincent Tourraine](https://www.twitter.com/vtourraine)  
-  _N’hésitez-pas à nous proposer vos idées de présentations._
+  **“Arduino et communications OSC”** par [ahork](https://www.twitter.com/ahork)  
+  **“L’internationnalisation”** par [Claire Reynaud](http://www.twitter.com/ClaireReynaud)  
+  **“NSPredicate”** par [Thibaut Jarosz](http://www.twitter.com/thibautjarosz)  
 
 
 ## Historique
