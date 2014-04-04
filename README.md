@@ -4,13 +4,15 @@ _Meetings pour CocoaHeads Lyon_
 
 ## Prochain meeting
 
-- 13 mars 2014  
-  **“Arduino et communications OSC”** par [ahork](https://www.twitter.com/ahork)  
-  **“L’internationnalisation”** par [Claire Reynaud](http://www.twitter.com/ClaireReynaud)  
-  **“NSPredicate”** par [Thibaut Jarosz](http://www.twitter.com/thibautjarosz)  
+- 10 avril 2014  
 
 
 ## Historique
+
+ - [13 mars 2014]()  
+  **“Arduino et communications OSC”** par [ahork](https://www.twitter.com/ahork)  
+  **“L’internationnalisation”** par [Claire Reynaud](http://www.twitter.com/ClaireReynaud)  
+  **“NSPredicate”** par [Thibaut Jarosz](http://www.twitter.com/thibautjarosz)  
 
  - [9 janvier 2014]()  
   **“Kinect et openFrameworks”**
