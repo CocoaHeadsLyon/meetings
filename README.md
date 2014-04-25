@@ -4,10 +4,13 @@ _Meetings pour CocoaHeads Lyon_
 
 ## Prochain meeting
 
-- 10 avril 2014  
+- 15 mai 2014  
 
 
 ## Historique
+
+ - [10 avril 2014]()  
+  **“iOS 7 : Custom Transitions”** par [Vincent Tourraine](https://www.twitter.com/vtourraine)  ([Présentation](https://speakerdeck.com/vtourraine/ios-7-view-controllers-custom-transitions-cocoaheads-lyon-avril-2014))
 
  - [13 mars 2014]()  
   **“Arduino et communications OSC”** par [ahork](https://www.twitter.com/ahork)  
