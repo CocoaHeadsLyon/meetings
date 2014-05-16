@@ -4,10 +4,14 @@ _Meetings pour CocoaHeads Lyon_
 
 ## Prochain meeting
 
-- 15 mai 2014  
+- Juin 2014  
 
 
 ## Historique
+
+ - [15 mai 2014]()  
+  **NSURLSession**, par [Mustapha Tarek Ben Lechhab](https://www.twitter.com/nsdeveloppeur)  
+  **The Untouched Cocoa**, par [Nicolas Bachschmidt](https://www.twitter.com/baarde)
 
  - [10 avril 2014]()  
   **“iOS 7 : Custom Transitions”** par [Vincent Tourraine](https://www.twitter.com/vtourraine)  ([Présentation](https://speakerdeck.com/vtourraine/ios-7-view-controllers-custom-transitions-cocoaheads-lyon-avril-2014))
